@@ -32,10 +32,10 @@ window.addEventListener('mousemove',(e)=>{
 
 const textureLoader = new THREE.TextureLoader()
 
-const matcap = textureLoader.load("./matcap.png")
-const matcap2 = textureLoader.load("./matcap2.png")
-const matcap3 = textureLoader.load("./matcap3.png")
-const matcap4 = textureLoader.load("./matcap4.png")
+const matcap = textureLoader.load("/matcap.png")
+const matcap2 = textureLoader.load("/matcap2.png")
+const matcap3 = textureLoader.load("/matcap3.png")
+const matcap4 = textureLoader.load("/matcap4.png")
 
 
 
