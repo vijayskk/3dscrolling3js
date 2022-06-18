@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+
+.dottedfont{
+  font-family: 'Raleway Dots', cursive;
+}
+
+.hero{
+  font-size: 100px;
+}
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.canvas1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
